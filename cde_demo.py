@@ -12,7 +12,7 @@ print('Record 0:\n', doc.records[0].serialize())
 
 print('Record 1:\n', doc.records[1].serialize())
 
-filepath = "C:/Users/scman1/Downloads/c8cp05975f.pdf"
+filepath = "c:/users/user1/Downloads/c8cp05975f.pdf"
 
 f = open(filepath, 'rb')
 
