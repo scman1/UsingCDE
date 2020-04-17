@@ -47,12 +47,11 @@ for chement in doc.cems:
 
 print("Unique entities:",len(uniques))
 
+print(uniques)
 serialised=doc.records.serialize()
 
 print(len(serialised))
 
 print(serialised)
 
-##if __name__ == "__main__":
-##   cde_read_pdfs(sys.argv[1:])
 
