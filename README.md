@@ -4,10 +4,10 @@ Examples using Chem Data Extractor
 A demonstrator of basic use of Chem Data Extractor using jupyter notebooks 
 
 Jupyter Example Files:
-  1. CDE Getting Started.ipynb   Basic example repeating the initial steps in the CDE documentation
-  2. Read PDF File.ipynb         Example reading a single file
-  3. Read CSV List.ipynb         Example reading from a csv list, modified from the example of cde_read_files.py
-  4. Read HTML File.ipynb        Example reading a single HTML document from the web (creating a temporary local copy)
+  1. '''CDE Getting Started.ipynb'''   Basic example repeating the initial steps in the CDE documentation
+  2. '''Read PDF File.ipynb'''         Example reading a single file
+  3. '''Read CSV List.ipynb'''         Example reading from a csv list, modified from the example of cde_read_files.py
+  4. '''Read HTML File.ipynb'''        Example reading a single HTML document from the web (creating a temporary local copy)
   
 Python Example Files: 
   1. cde_demo.py         script running the same comands as the two jupyter notebooks
